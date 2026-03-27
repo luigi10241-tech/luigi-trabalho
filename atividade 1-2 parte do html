@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valorant - Meu Jogo Favorito</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+ 
+    <header>
+        <h1>VALORANT 🎮</h1>
+        <p>Meu jogo favorito de todos os tempos</p>
+    </header>
+ 
+    <main>
+ 
+        <section class="sobre">
+            <h2>O que é Valorant?</h2>
+            <p>
+                Valorant é um jogo de tiro em primeira pessoa (FPS) desenvolvido pela Riot Games,
+                a mesma empresa que criou o League of Legends. Ele foi lançado em 2020 e desde então
+                virou febre no mundo todo. No Brasil então, todo mundo joga!
+            </p>
+            <p>
+                O jogo é gratuito para baixar e jogar, o que ajudou muito a ficar tão popular.
+                Eu comecei a jogar em 2021 e não consigo parar até hoje.
+            </p>
+        </section>
+ 
+        <section class="como-funciona">
+            <h2>Como o jogo funciona?</h2>
+            <p>
+                O Valorant é um jogo de 5 contra 5. Uma equipe ataca e a outra defende.
+                O time atacante tenta plantar uma bomba (chamada de "Spike") em um dos pontos do mapa,
+                e o time defensor tenta impedir isso.
+            </p>
+            <p>
+                Cada partida tem várias rodadas, e quem ganhar mais rodadas vence o jogo.
+                Parece simples, mas na prática é muito estratégico e exige bastante trabalho em equipe.
+            </p>
+        </section>
+ 
+        <section class="agentes">
+            <h2>Os Agentes</h2>
+            <p>
+                Uma das partes mais legais do Valorant são os <strong>Agentes</strong>, que são os personagens
+                que você escolhe antes de jogar. Cada agente tem habilidades únicas e um papel diferente no time.
+                Existem 4 tipos de agentes:
+            </p>
+            <ul>
+                <li><strong>Duelistas:</strong> focados em fazer kills e criar jogadas individuais (ex: Jett, Reyna)</li>
+                <li><strong>Iniciadores:</strong> ajudam o time a entrar em locais com informação e apoio (ex: Sova, Breach)</li>
+                <li><strong>Controladores:</strong> controlam áreas do mapa com fumaças e barreiras (ex: Omen, Astra)</li>
+                <li><strong>Sentinelas:</strong> defendem e protegem o time com curas e alarmes (ex: Sage, Killjoy)</li>
+            </ul>
+            <p>Meu agente favorito é o <strong>Omen</strong> porque ele é muito misterioso e tem habilidades incríveis de teleporte!</p>
+        </section>
+ 
+        <section class="ranks">
+            <h2>Sistema de Ranks</h2>
+            <p>
+                O Valorant tem um sistema de ranqueamento onde você vai subindo de nível conforme ganha partidas.
+                Os ranks são:
+            </p>
+            <ol>
+                <li>Ferro</li>
+                <li>Bronze</li>
+                <li>Prata</li>
+                <li>Ouro</li>
+                <li>Platina</li>
+                <li>Diamante</li>
+                <li>Ascendente</li>
+                <li>Imortal</li>
+                <li>Radiante (só os melhores do mundo!)</li>
+            </ol>
+            <p>Eu estou no <strong>Prata 2</strong> atualmente. Meu sonho é chegar no Diamante esse ano!</p>
+        </section>
+ 
+        <section class="dica">
+            <h2>Por que eu recomendo? 💡</h2>
+            <p>
+                Se você nunca jogou Valorant, recomendo muito! O jogo é gratuito, tem gráficos bonitos,
+                é muito estratégico e ainda tem uma comunidade enorme no Brasil. Dá pra jogar com amigos
+                e se divertir muito. Só cuidado pra não viciar igual eu! 😅
+            </p>
+        </section>
+ 
+    </main>
+ 
+    <footer>
+        <p>Feito por: Ana Clara | Turma: 2º A | 2024</p>
+    </footer>
+ 
+</body>
+</html>
